@@ -1,5 +1,5 @@
 let N = 13;
-
+let sum=0;
 let factor=0;
  for(i=1;i<=N;i++){
  	if(N%i==0){
